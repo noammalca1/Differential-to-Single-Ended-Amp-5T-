@@ -33,5 +33,4 @@ The report covers the full design cycle:
 * **Cadence Virtuoso** (Schematic & ADE)
 * **Spectre Simulator**
 
-## Authors
-* Noam & Rom
+
